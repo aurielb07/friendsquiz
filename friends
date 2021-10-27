@@ -1,52 +1,52 @@
 [
     {
         "question": "How many seasons are there of Friends?","optionOne": "(A) ten","optionTwo": "(B) five","optionThree": "(C) eight",
-        "answer": "a"
+        "answer": "A"
 
 },
     {
         "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne": "(A) Rachel","optionTwo": "(B) Chandler","optionThree":"(C) Joey",
-        "answer": "b"
+        "answer": "B"
 
 },
     {
         "question": "What was the name of Ross' pet monkey?","optionOne":"(A) Marcel","optionTwo": "(B) Lucky", "optionThree":"(C) Ben",
-        "answer": "a"
+        "answer": "A"
 
 },
     {
         "question": "What doesn't Joey share?","optionOne":"(A) Food","optionTwo":"(B) Money","optionThree": "(C) Girls",
-        "answer": "a"
+        "answer": "A"
 
 },
     {
         "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne":"(A) Rachel","optionTwo":"(B) Chandler","optionThree":"(C) Joey",
-        "answer": "b"
+        "answer": "B"
 
 },
     {
-        "question": "What holiday does Chandler hate?","optionOne":"(a) Christmas","optionTwo": "(b) Thanksgiving","optionThree":"(c) Easter",
-        "answer": "b"
+        "question": "What holiday does Chandler hate?","optionOne":"(A) Christmas","optionTwo": "(B) Thanksgiving","optionThree":"(C) Easter",
+        "answer": "B"
 
 },
     {
-        "question": "What famous actress plays Rachel's sister?n(a) Anne Hathaway  n (b) Emma Stonen (c) Reese Witherspoon",
-        "answer": "c"
+        "question": "What famous actress plays Rachel's sister?","optionOne":"(A) Anne Hathaway","optionTwo":"(B) Emma Stone","optionThree": "(C) Reese Witherspoon",
+        "answer": "C"
 
 },
     {
-        "question": "What city is Friends set in?n(a) Los Angeles n (b) New York Cityn (c) Washington D.C.",
-        "answer": "b"
+        "question": "What city is Friends set in?","optionOne":"(A) Los Angeles","optionTwo":"(B) New York City","optionThree":"(C) Washington D.C.",
+        "answer": "B"
 
 },
     {
-        "question": "Where did Monica and Chandler first get together?n(a) Hawaii n (b) Parisn (c) London",
-        "answer": "c"
+        "question": "Where did Monica and Chandler first get together?","optionOne":"(A) Hawaii","optionTwo":"(B) Paris","optionThree":"(C) London",
+        "answer": "C"
 
 },
     {
-        "question": "What is the name of Phoebe's sister?n(a) Ursula n (b) Amyn (c) Janice",
-        "answer": "a"
+        "question": "What is the name of Phoebe's sister?","optionOne":"(A) Ursula","optionTwo":"(B) Amy","optionThree":"(C) Janice",
+        "answer": "A"
 
 }
 
