@@ -1,31 +1,31 @@
 [
     {
-        "question": "How many seasons are there of Friends?","optionOne": "(a) ten","optionTwo": "(b) five","optionThree": "(c) eight",
+        "question": "How many seasons are there of Friends?","optionOne": "(A) ten","optionTwo": "(B) five","optionThree": "(C) eight",
         "answer": "a"
 
 },
     {
-        "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne": "(a) Rachel","optionTwo": "(b) Chandler","optionThree":"(c) Joey",
+        "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne": "(A) Rachel","optionTwo": "(B) Chandler","optionThree":"(C) Joey",
         "answer": "b"
 
 },
     {
-        "question": "What was the name of Ross' pet monkey?","optionOne":"(a) Marcel","optionTwo": "(b) Lucky", "optionThree":"(c) Ben",
+        "question": "What was the name of Ross' pet monkey?","optionOne":"(A) Marcel","optionTwo": "(B) Lucky", "optionThree":"(C) Ben",
         "answer": "a"
 
 },
     {
-        "question": "What doesn't Joey share?n(a) Food n (b) Moneyn (c) Girls",
+        "question": "What doesn't Joey share?","optionOne":"(A) Food","optionTwo":"(B) Money","optionThree": "(C) Girls",
         "answer": "a"
 
 },
     {
-        "question": "Who pees on Monica after she gets stung by a jellyfish ?n(a) Rachel n (b) Chandlern (c) Joey",
+        "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne":"(A) Rachel","optionTwo":"(B) Chandler","optionThree":"(C) Joey",
         "answer": "b"
 
 },
     {
-        "question": "What holiday does Chandler hate?n(a) Christmas n (b) Thanksgivingn (c) Easter",
+        "question": "What holiday does Chandler hate?","optionOne":"(a) Christmas","optionTwo": "(b) Thanksgiving","optionThree":"(c) Easter",
         "answer": "b"
 
 },
