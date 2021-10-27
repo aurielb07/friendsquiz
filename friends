@@ -1,52 +1,52 @@
 [
     {
         "question": "How many seasons are there of Friends?","optionOne": "(A) ten","optionTwo": "(B) five","optionThree": "(C) eight",
-        "answer": "A"
+        "answer": "(A) ten"
 
 },
     {
         "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne": "(A) Rachel","optionTwo": "(B) Chandler","optionThree":"(C) Joey",
-        "answer": "B"
+        "answer": "(B) Chandler"
 
 },
     {
         "question": "What was the name of Ross' pet monkey?","optionOne":"(A) Marcel","optionTwo": "(B) Lucky", "optionThree":"(C) Ben",
-        "answer": "A"
+        "answer": "(A) Marcel"
 
 },
     {
         "question": "What doesn't Joey share?","optionOne":"(A) Food","optionTwo":"(B) Money","optionThree": "(C) Girls",
-        "answer": "A"
+        "answer": "(A) Food"
 
 },
     {
         "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne":"(A) Rachel","optionTwo":"(B) Chandler","optionThree":"(C) Joey",
-        "answer": "B"
+        "answer": "(B) Chandler"
 
 },
     {
         "question": "What holiday does Chandler hate?","optionOne":"(A) Christmas","optionTwo": "(B) Thanksgiving","optionThree":"(C) Easter",
-        "answer": "B"
+        "answer": "(B) Thanksgiving"
 
 },
     {
         "question": "What famous actress plays Rachel's sister?","optionOne":"(A) Anne Hathaway","optionTwo":"(B) Emma Stone","optionThree": "(C) Reese Witherspoon",
-        "answer": "C"
+        "answer": "(C) Reese Witherspoon"
 
 },
     {
         "question": "What city is Friends set in?","optionOne":"(A) Los Angeles","optionTwo":"(B) New York City","optionThree":"(C) Washington D.C.",
-        "answer": "B"
+        "answer": "(B) New York City"
 
 },
     {
         "question": "Where did Monica and Chandler first get together?","optionOne":"(A) Hawaii","optionTwo":"(B) Paris","optionThree":"(C) London",
-        "answer": "C"
+        "answer": "(C) London"
 
 },
     {
         "question": "What is the name of Phoebe's sister?","optionOne":"(A) Ursula","optionTwo":"(B) Amy","optionThree":"(C) Janice",
-        "answer": "A"
+        "answer": "(A) Ursula"
 
 }
 
