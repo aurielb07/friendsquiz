@@ -1,16 +1,16 @@
 [
     {
-        "question": "How many seasons are there of Friends?n(a) ten n (b) fiven (c) eight",
+        "question": "How many seasons are there of Friends?","optionOne": "(a) ten","optionTwo": "(b) five","optionThree": "(c) eight",
         "answer": "a"
 
 },
     {
-        "question": "Who pees on Monica after she gets stung by a jellyfish?n(a) Rachel n (b) Chandlern (c) Joey",
+        "question": "Who pees on Monica after she gets stung by a jellyfish?","optionOne": "(a) Rachel","optionTwo": "(b) Chandler","optionThree":"(c) Joey",
         "answer": "b"
 
 },
     {
-        "question": "What was the name of Ross' pet monkey?n(a) Marcel n (b) Luckyn (c) Ben",
+        "question": "What was the name of Ross' pet monkey?","optionOne":"(a) Marcel","optionTwo": "(b) Lucky", "optionThree":"(c) Ben",
         "answer": "a"
 
 },
